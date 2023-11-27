@@ -30,7 +30,7 @@ num = num + 5;
 num2 = num - 2;
 console.log("SOMMA", num);
 console.log("SOTTRAZIONE", num2);
-// Null, valore di stringa è nullo, è presente un valore nullo in quella variabile (dopo = non viene assegnato nessun valore)
+// Null, valore di stringa è nullo, è presente un valore nullo in quella variabile (valore=null)
 let niente = null;
 console.log("VALORE NULLO", niente);
 // Undefinded, nome di stringa non assegnato affatto (esempio: let = 5 o let = "ciao")
