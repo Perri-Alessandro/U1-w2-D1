@@ -91,7 +91,7 @@ console.log(
   "DIVENTERANNO UGAULI SE ENTRAMBI SARANNO SCRITTI CON LA LETTERA MAIUSCOLA",
   name1 !== name2 && name2 === name2
 );
-let sonoUguali = name1.toLowerCase() === name2.toLocaleLowerCase();
+let sonoUguali = name1.toLowerCase() === name2.toLowerCase();
 console.log(
   "UGUALI SE TRASFORMATI CON L'INIZIALE MINUSCOLA (o maiuscola)",
   sonoUguali
