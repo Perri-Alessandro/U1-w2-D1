@@ -60,6 +60,7 @@ console.log("VALORE X", x);
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
+// se lascio la variabile rinomita nome da ERRORE
 let nome1 = "Alessandro";
 nome1 = "Perri";
 console.log("NOME DIVENTA COGNOME", nome1);
