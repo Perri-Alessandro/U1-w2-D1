@@ -30,11 +30,11 @@ num = num + 5;
 num2 = num - 2;
 console.log("SOMMA", num);
 console.log("SOTTRAZIONE", num2);
-// Null, valore di stringa è nullo, è presente un valore nullo in quella variabile (valore=null)
+// Null, valore di stringa è nullo, è presente un valore nullo in quella variabile, assenza di valore (valore=null)
 let niente = null;
 console.log("VALORE NULLO", niente);
-// Undefinded, nome di stringa non assegnato affatto (esempio: let = 5 o let = "ciao")
-let nonDefinito = undefined;
+// Undefinded, nome di stringa non assegnato affatto, valore di una variabile non ancora settato (TIPO LET ME ; senza uguale ne valore dopo )
+let = 5;
 console.log("VALORE UNDEFINED", nonDefinito);
 
 /* ESERCIZIO 2
